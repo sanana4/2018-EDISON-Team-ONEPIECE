@@ -12,4 +12,5 @@ Smart Home Using Google API Emotion Detect
   + Remote Control Lamp
   + Remote Control Hitting & Cooling System
 #### Implementation
-Making Model House with 3D Printer.:![alt text](2018-EDISON-Team-ONEPIECE/Images/3D프린터집모형제작.jpg)
+Making Model House with 3D Printer.:
+![alt text](2018-EDISON-Team-ONEPIECE/Images/3D프린터집모형제작.jpg)
