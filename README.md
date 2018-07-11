@@ -19,3 +19,19 @@ Making Model House with 3D Printer:
 Image Of Project:
 
 ![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%A0%9C%ED%92%88%EC%82%AC%EC%A7%84.jpg?raw=true)
+
+When You Feel Angry:
+
+![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%ED%99%94%EB%82%A8.jpg?raw=true)
+
+When You Feel Sad:
+
+![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8A%AC%ED%94%94.jpg?raw=true)
+
+When You Feel Surprise:
+
+![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EB%86%80%EB%9E%8C.jpg?raw=true)
+
+When You Feel Happy:
+
+![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EA%B8%B0%EC%81%A8.jpg?raw=true)
