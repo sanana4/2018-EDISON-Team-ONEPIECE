@@ -53,5 +53,5 @@ Print("행복해 보이네요"), Show Green LED, And Play Music
 [Video of Google API Emotion Detect System](https://youtu.be/t6tQ4mxaHOk)
 
 ###### Benefit
- By reducing depression and anger control disorder through music therapy and color therapy,
+  By reducing depression and anger control disorder through music therapy and color therapy,
 We can reduce the rate of suicide by depression and crime by anger control disorder.
