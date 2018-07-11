@@ -14,6 +14,5 @@ Smart Home Using Google API Emotion Detect
 #### Implementation
 Making Model House with 3D Printer:
 ![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/3D%ED%94%84%EB%A6%B0%ED%84%B0%EC%A7%91%EB%AA%A8%ED%98%95%EC%A0%9C%EC%9E%91.jpg?raw=true )
-
 Image Of Project:
 ![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%EC%A0%9C%ED%92%88%EC%82%AC%EC%A7%84.jpg?raw=true)
