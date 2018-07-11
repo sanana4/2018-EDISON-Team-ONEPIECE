@@ -1,1 +1,5 @@
 # 2018-EDISON-Team-ONEPIECE
+Repositories of EDISON 2018 - Team ONEPIECE
+
+
+
