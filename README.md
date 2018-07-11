@@ -6,8 +6,8 @@ Repositories of EDISON 2018 - Team ONEPIECE
 - 함근상 
 ### About Project
 - Smart Home Using Google API Emotion Detect
-..- Emotion Detection
-..- Music Therapy Effect
+  + Emotion Detection
+  + Music Therapy Effect
 ..- Color Therapy Effect
 ..- Inform weather and temperature
 ..- Remote Control Lamp
