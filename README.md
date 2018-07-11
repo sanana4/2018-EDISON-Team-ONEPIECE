@@ -43,3 +43,9 @@ When You Feel Happy:
 Print("행복해 보이네요"), Show Green LED, And Play Music
 
 ![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EA%B8%B0%EC%81%A8.jpg?raw=true)
+#### Details
+| Emotions | Anger | Sorrow | Surprise | Happy |
+|----------|       |        |          |       |
+|   LED    | White |  Red   |  Yellow  | Green |
+|----------|
+|   Song   |
