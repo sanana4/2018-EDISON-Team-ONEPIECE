@@ -47,5 +47,4 @@ Print("행복해 보이네요"), Show Green LED, And Play Music
 | Emotions | Anger | Sorrow | Surprise | Happy |
 |----------|:-----:|:------:|:--------:|------:|
 |   LED    | White |  Red   |  Yellow  | Green |
-|----------|:-----:|:------:|:--------:|------:|
 |   Song   |anger.mp3|sorrow.mp3|    X    |joy.mp3|
