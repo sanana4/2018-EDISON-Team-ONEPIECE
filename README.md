@@ -1,4 +1,4 @@
-# 2018-KEDISON-Team-ONEPIECE
+# 2018-EDISON-Team-ONEPIECE
 Smart Home Using Google API Emotion Detect
 ## Team Members
 - 임유환 (YouHwan Lim)
