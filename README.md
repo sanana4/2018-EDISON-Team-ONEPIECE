@@ -10,7 +10,7 @@ Smart Home Using Google API Emotion Detect
   + Color Therapy Function
   + Inform weather and temperature
   + Remote Control Lamp
-  + Remote Control Hitting & Cooling System
+  
 #### Implementation
 Making Model House with 3D Printer:
 
@@ -43,6 +43,10 @@ When You Feel Happy:
 Print("행복해 보이네요"), Show Green LED, And Play Music
 
 ![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EA%B8%B0%EC%81%A8.jpg?raw=true)
+
+Remote Control Lamp:
+![alt text](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE/blob/master/Images/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%9B%90%EA%B2%A9%20LED.jpg?raw=true)
+
 #### Details
 | Emotions | Anger | Sorrow | Surprise | Happy |
 |----------|:-----:|:------:|:--------:|------:|
@@ -51,6 +55,7 @@ Print("행복해 보이네요"), Show Green LED, And Play Music
 
 ##### Video Clip
 [Video of Google API Emotion Detect System](https://youtu.be/t6tQ4mxaHOk)
+[Remote Control LED Lamp](https://youtu.be/Bb7qlM22CMk)
 
 ###### Benefit
   By reducing depression and anger control disorder through music therapy and color therapy,
