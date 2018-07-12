@@ -56,7 +56,7 @@ Modle House:
 #### Details
 | Emotions | Anger | Sorrow | Surprise | Happy |
 |----------|:-----:|:------:|:--------:|------:|
-|   LED    | White |  Red   |  Yellow  | Green |
+|   LED    | White |  Red   |  Green  | Yellow |
 |   Song   |anger.mp3|sorrow.mp3|    X    |joy.mp3|
 
 ##### Video Clip
